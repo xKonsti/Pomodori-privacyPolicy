@@ -1,4 +1,4 @@
-# Pomodoro App FAQ
+# Pomodori FAQ
 
 Here are some common questions about the Pomodoro technique and how to use our Pomodoro app:
 
