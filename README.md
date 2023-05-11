@@ -28,4 +28,4 @@ The Pomodoro technique is suitable for anyone looking to improve their productiv
 
 ## Privacy Policy
 
-https://github.com/xKonsti/Pomodori-privacyPolicy/blob/main/privacy_policy.html
+https://xkonsti.github.io/Pomodori-privacyPolicy/
