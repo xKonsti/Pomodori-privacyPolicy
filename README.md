@@ -12,11 +12,11 @@ Our Pomodoro app is easy to use. Simply select the length of your Pomodoros and 
 
 ## How long should my Pomodoros and breaks be?
 
-The standard Pomodoro technique recommends 25-minute Pomodoros and 5-minute breaks, but you can customize the length of your Pomodoros and breaks in our app to best suit your needs.
+The standard Pomodoro technique recommends 4-repitions of 25-minute Pomodoros and 5-minute breaks followed by a big 30-minute break, but you can customize the length of your Pomodoros and breaks in our app to best suit your needs.
 
 ## Can I customize the app settings?
 
-Yes, you can customize the length of your Pomodoros and breaks, as well as adjust the volume of the timer sound, and select different alarm sounds to notify you when your Pomodoro or break is over.
+Yes, you can customize the length of your Pomodoros and breaks, as well as adjust the volume of the timer sound.
 
 ## How does the Pomodoro technique help with productivity?
 
