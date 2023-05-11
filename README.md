@@ -25,3 +25,7 @@ The Pomodoro technique helps improve productivity by breaking work into manageab
 ## Is the Pomodoro technique suitable for everyone?
 
 The Pomodoro technique is suitable for anyone looking to improve their productivity and manage their time more effectively.
+
+## Privacy Policy
+
+https://github.com/xKonsti/Pomodori-privacyPolicy/blob/main/privacy_policy.html
